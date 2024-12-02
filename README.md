@@ -7,3 +7,6 @@ I'm passionate about turning data into meaningful insights. Currently pursuing a
 
 ## Machine Learning Project 
 + 💵 [Fraud Transaction Detection](https://github.com/SueTan309/Fraud-Detection) <br/>
+- **Exploratory Data Analysis (EDA):** Perform in-depth analysis to understand the background of the feature variables and identify patterns, trends, and outliers in the data.
+- **Machine Learning Model Development:** Implement machine learning algorithms to build a robust model that can detect whether a transaction is fraudulent or legitimate.
+- **Visualization:** Create various visualizations (e.g., bar graphs, scatter plots, heatmaps) to segment customer data and better understand customer behavior and characteristics.
