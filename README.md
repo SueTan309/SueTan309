@@ -18,3 +18,14 @@
 - **Setting Up Database Relational System**: Set up a relational database using MySQL to maintain data integirty
 - **Implementing Stored Procedures and Triggers:** Automate processes such as updating student enrollment, managing transactions, and calculating grades.
 - **Creating Testing (Validation) Data:** Generate test data to validate the functionality and performance of the database, ensuring that the system works as expected under various scenarios.
+
+## Data Visualization 
+🛒 [Superstore Sale Analysis in PowerBI](https://github.com/SueTan309/SuperStore-Sale-Analysis) <br/>
+- **Data Visualization:** Analyze customer behaviors and characteristics through visualizations.
+- **Customer Segmentation:** Group customers based on behaviors and demographics.
+- **Marketing Recommendations:** Provide insights to the marketing team to boost sales promotions.
+
+🏡 [Sydney Suburb House Price Analysis in Excel](https://github.com/SueTan309/Sydney-Suburb-House-Price-Analysis) <br/>
+- **House Price Analysis:** Analyze house prices in Blue Mountain over specific periods.
+- **Insights for House Types:** Provide insights on various house types and market trends.
+- **Advice for Stakeholders:** Offer recommendations to stakeholders and real estate investors based on market analysis.
